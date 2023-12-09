@@ -1,9 +1,9 @@
 :root {
-    --primary: #ccdad1;
+    --primary: #daccda;
     --secondary: #9caea9;
     --tertiary: #788585;
-    --light-dark: #6f6866;
-    --dark: #38302e;
+    --light-dark: #2c759a;
+    --dark: #2f929d;
     --border-radius: 0.3rem;
   }
   
@@ -116,13 +116,13 @@
   }
   
   .hero {
-    padding: 3% 4%;
+    padding: 3% 30%;
     background-color: var(--dark);
     color: var(--primary);
   }
   
   .hero p {
-    max-width: 75%;
+    max-width: 100%;
   }
   
   .app-title {
